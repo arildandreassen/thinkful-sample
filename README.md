@@ -1,2 +1,1 @@
-# thinkful-sample
-sample repo
+# This is a sample project
